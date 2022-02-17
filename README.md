@@ -15,7 +15,7 @@
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifthewebguy&show_icons=true&theme=merko)](https://asifthewebguy.me)
 
 <div style="display: grid; justify-content: center; align-items: center;">
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=asifthewebguy&show_icons=true&theme=merko" alt="Asif's GitHub stats"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifthewebguy&layout=compact&show_icons=true&theme=merko)](https://asifthewebguy.me)
