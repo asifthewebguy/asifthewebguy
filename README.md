@@ -1,7 +1,7 @@
 # 👋 Hi Guys, I’m Asif
 
 - 👀 I Love learning new things.
-- 🎉 I am 💯 self taught and slf motivated and did not get a chance to finish college.
+- 🎉 I am 💯 self taught and self motivated and did not get a chance to finish college.
 - 🌱 I’m currently learning about Nuxt, Vue and Node
 - 💞️ I’m looking to collaborate on interesting OpenSource projects
 
